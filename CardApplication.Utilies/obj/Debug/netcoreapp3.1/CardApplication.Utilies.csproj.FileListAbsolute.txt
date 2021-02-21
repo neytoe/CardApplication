@@ -1,0 +1,8 @@
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Utilies\bin\Debug\netcoreapp3.1\CardApplication.Utilies.deps.json
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Utilies\bin\Debug\netcoreapp3.1\CardApplication.Utilies.dll
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Utilies\bin\Debug\netcoreapp3.1\CardApplication.Utilies.pdb
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Utilies.AssemblyInfoInputs.cache
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Utilies.AssemblyInfo.cs
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Utilies.csproj.CoreCompileInputs.cache
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Utilies.dll
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Utilies.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CardApplication.Commons/1.0.0": {
+        "dependencies": {
+          "CardApplication.Dto": "1.0.0"
+        },
+        "runtime": {
+          "CardApplication.Commons.dll": {}
+        }
+      },
+      "CardApplication.Dto/1.0.0": {
+        "runtime": {
+          "CardApplication.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CardApplication.Commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CardApplication.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

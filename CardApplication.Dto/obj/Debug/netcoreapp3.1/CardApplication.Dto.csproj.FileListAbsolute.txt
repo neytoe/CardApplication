@@ -1,0 +1,17 @@
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Dto\bin\Debug\netcoreapp3.1\CardApplication.Dto.deps.json
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Dto\bin\Debug\netcoreapp3.1\CardApplication.Dto.dll
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Dto\bin\Debug\netcoreapp3.1\CardApplication.Dto.pdb
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Dto\obj\Debug\netcoreapp3.1\CardApplication.Dto.AssemblyInfoInputs.cache
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Dto\obj\Debug\netcoreapp3.1\CardApplication.Dto.AssemblyInfo.cs
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Dto\obj\Debug\netcoreapp3.1\CardApplication.Dto.csproj.CoreCompileInputs.cache
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Dto\obj\Debug\netcoreapp3.1\CardApplication.Dto.dll
+C:\Users\CHidimms\source\repos\CardApplication\CardApplication.Dto\obj\Debug\netcoreapp3.1\CardApplication.Dto.pdb
+C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Dto\bin\Debug\netcoreapp3.1\CardApplication.Dto.deps.json
+C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Dto\bin\Debug\netcoreapp3.1\CardApplication.Dto.dll
+C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Dto\bin\Debug\netcoreapp3.1\CardApplication.Dto.pdb
+C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Dto\obj\Debug\netcoreapp3.1\CardApplication.Dto.csprojAssemblyReference.cache
+C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Dto\obj\Debug\netcoreapp3.1\CardApplication.Dto.AssemblyInfoInputs.cache
+C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Dto\obj\Debug\netcoreapp3.1\CardApplication.Dto.AssemblyInfo.cs
+C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Dto\obj\Debug\netcoreapp3.1\CardApplication.Dto.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Dto\obj\Debug\netcoreapp3.1\CardApplication.Dto.dll
+C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Dto\obj\Debug\netcoreapp3.1\CardApplication.Dto.pdb
