@@ -18,9 +18,6 @@ namespace CardApplication.Utilies
 
         public static bool IsCardNumberValid(string cardNumber)
         {
-            //Strip any non-numeric values
-            cardNumber = Regex.Replace(cardNumber, @"[^\d]", "");
-
             int i, checkSum = 0;
             // Compute checksum of every other digit starting from right-most digit
             for (i = cardNumber.Length - 1; i >= 0; i -= 2)

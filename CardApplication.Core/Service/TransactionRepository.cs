@@ -14,9 +14,15 @@ namespace CardApplication.Core.Service
             _context = context;
         }
 
-        public async Task<Transaction> GetById(string id)
+        public async Task<Transactions> GetById(string id)
         {
             return await _context.Transactions.Include(x => x.Payment).FirstOrDefaultAsync(x => x.PaymentId == id);
+        }
+
+        public async Task<bool> Add(Transactions model)
+        {
+            await _context.Transactions.AddAsync(model);
+            return _context.SaveChanges() > 0;
         }
     }
 }

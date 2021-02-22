@@ -5,6 +5,7 @@ namespace CardApplication.Core.Interface
 {
     public interface ITransactionRepository
     {
-        Task<Transaction> GetById(string id);
+        Task<Transactions> GetById(string id);
+        Task<bool> Add(Transactions model);
     }
 }

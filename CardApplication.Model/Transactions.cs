@@ -1,6 +1,6 @@
 ﻿namespace CardApplication.Model
 {
-    public class Transaction
+    public class Transactions
     {
         public string Id { get; set; }
         public PaymentStatus Status { get; set; }

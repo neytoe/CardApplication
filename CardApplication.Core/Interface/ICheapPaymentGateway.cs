@@ -3,8 +3,8 @@ using System.Threading.Tasks;
 
 namespace CardApplication.Core.Interface
 {
-    public interface ICheapPaymentGateway
+    public interface ICheapPaymentGateway: ICreditCardPayment
     {
-        Task<bool> ProcessPayment(Payment model);
+       // Task<bool> ProcessPayment(Payment model);
     }
 }

@@ -22,3 +22,15 @@ C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Utilies\obj\D
 C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Commons.csproj.CopyComplete
 C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Commons.dll
 C:\Users\hp\source\CardApplication\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Commons.pdb
+C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Utilies\bin\Debug\netcoreapp3.1\CardApplication.Commons.deps.json
+C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Utilies\bin\Debug\netcoreapp3.1\CardApplication.Commons.dll
+C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Utilies\bin\Debug\netcoreapp3.1\CardApplication.Commons.pdb
+C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Utilies\bin\Debug\netcoreapp3.1\CardApplication.Dto.dll
+C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Utilies\bin\Debug\netcoreapp3.1\CardApplication.Dto.pdb
+C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Commons.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Commons.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Commons.AssemblyInfo.cs
+C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Commons.csproj.CopyComplete
+C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Commons.dll
+C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Utilies\obj\Debug\netcoreapp3.1\CardApplication.Commons.pdb

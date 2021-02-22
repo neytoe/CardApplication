@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using System;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace CardApplication.API.Controllers
@@ -37,9 +38,11 @@ namespace CardApplication.API.Controllers
         {
             if (!ModelState.IsValid) return BadRequest(new { message = "Bad Request", errors = "Invalid credentials provided" });
 
+            //Strip any non-numeric values
+            payment.CreditCardNumber = Regex.Replace(payment.CreditCardNumber, @"[^\d]", "");
             if (Utilities.IsModelValid(payment))
             {
-                Payment model = null;
+                var model= new Payment();
                 try
                 {
                     model = _mapper.Map<Payment>(payment);

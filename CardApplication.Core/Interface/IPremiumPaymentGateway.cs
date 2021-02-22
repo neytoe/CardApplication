@@ -1,6 +1,6 @@
 ﻿namespace CardApplication.Core.Interface
 {
-    public interface IPremiumPaymentGateway : ICheapPaymentGateway
+    public interface IPremiumPaymentGateway : ICreditCardPayment
     {
     }
 }

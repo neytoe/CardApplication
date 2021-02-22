@@ -20,11 +20,5 @@ namespace CardApplication.Core.Service
             await entities.AddAsync(entity);
             return await _ctx.SaveChangesAsync() > 0;
         }
-
-        //public async Task<bool> Update(T entity)
-        //{
-        //    entities.Update(entity);
-        //    return await _ctx.SaveChangesAsync() > 0;
-        //}
     }
 }

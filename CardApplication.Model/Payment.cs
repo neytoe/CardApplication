@@ -10,6 +10,6 @@ namespace CardApplication.Model
         public DateTime ExpirationDate { get; set; }
         public string SecurityCode { get; set; }
         public decimal Amount { get; set; }
-        public Transaction Transactions { get; set; }
+        public Transactions Transactions { get; set; }
     }
 }

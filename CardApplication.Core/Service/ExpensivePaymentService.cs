@@ -5,32 +5,9 @@ using System.Threading.Tasks;
 
 namespace CardApplication.Core.Service
 {
-    public class ExpensivePaymentService : IExpensivePaymentGateway
+    public class ExpensivePaymentService : CreditCardPaymentService, IExpensivePaymentGateway
     {
-        private readonly IGenericRepository<Transaction> _transactionRepo;
-        private readonly IGenericRepository<Payment> _paymentRepo;
-
-        public ExpensivePaymentService(IGenericRepository<Transaction> transactionRepo,
-            IGenericRepository<Payment> paymentRepo)
-        {
-            _transactionRepo = transactionRepo;
-            _paymentRepo = paymentRepo;
-        }
-
-        public async Task<bool> ProcessPayment(Payment model)
-        {
-            model.Id = Guid.NewGuid().ToString();
-            await _paymentRepo.Add(model);
-            return await AddTransaction(PaymentStatus.processed, model.Id);
-        }
-
-        private async Task<bool> AddTransaction(PaymentStatus status, string id)
-        {
-            var transaction = new Transaction();
-            transaction.Id = Guid.NewGuid().ToString();
-            transaction.PaymentId = id;
-            transaction.Status = status;
-            return await _transactionRepo.Add(transaction);
-        }
+        public ExpensivePaymentService(ITransactionRepository transactionRepo, IGenericRepository<Payment> paymentRepo) 
+            : base(transactionRepo, paymentRepo) {} 
     }
 }
