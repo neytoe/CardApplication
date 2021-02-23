@@ -115,8 +115,8 @@ namespace CardApplication.Test
         [Fact]
         public void CheckIfDateIsValid()
         {
-            DateTime amount = DateTime.Parse("2/23/2021");
-            var result = Utilities.IsDateValid(amount);
+            DateTime date = DateTime.Parse("2/23/2078");
+            var result = Utilities.IsDateValid(date);
             Assert.True(result);
         }
 
