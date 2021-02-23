@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication\\CardApplication.API.csproj": {}
+    "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication\\CardApplication.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj": {
+    "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj",
         "projectName": "CardApplication.Core",
-        "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj",
+        "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Core\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -32,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj"
+              "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj": {
+                "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj"
               }
             }
           }
@@ -66,22 +62,18 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj": {
+    "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj",
         "projectName": "CardApplication.Data",
-        "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj",
+        "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Data\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -94,8 +86,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Model\\CardApplication.Model.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Model\\CardApplication.Model.csproj"
+              "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Model\\CardApplication.Model.csproj": {
+                "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Model\\CardApplication.Model.csproj"
               }
             }
           }
@@ -138,22 +130,18 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj": {
+    "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj",
         "projectName": "CardApplication.Dto",
-        "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj",
+        "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Dto\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Dto\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -196,22 +184,18 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Model\\CardApplication.Model.csproj": {
+    "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Model\\CardApplication.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Model\\CardApplication.Model.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Model\\CardApplication.Model.csproj",
         "projectName": "CardApplication.Model",
-        "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Model\\CardApplication.Model.csproj",
+        "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Model\\CardApplication.Model.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Model\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -224,8 +208,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj"
+              "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj": {
+                "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj"
               }
             }
           }
@@ -264,22 +248,18 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj": {
+    "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj",
         "projectName": "CardApplication.Commons",
-        "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj",
+        "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Utilies\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Utilies\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -292,8 +272,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj"
+              "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj": {
+                "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj"
               }
             }
           }
@@ -326,22 +306,18 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication\\CardApplication.API.csproj": {
+    "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication\\CardApplication.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication\\CardApplication.API.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication\\CardApplication.API.csproj",
         "projectName": "CardApplication.API",
-        "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication\\CardApplication.API.csproj",
+        "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication\\CardApplication.API.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -354,17 +330,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj"
+              "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj": {
+                "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj"
               },
-              "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj"
+              "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj": {
+                "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj"
               },
-              "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj"
+              "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj": {
+                "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj"
               },
-              "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj"
+              "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj": {
+                "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj"
               }
             }
           }

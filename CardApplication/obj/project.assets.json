@@ -1757,25 +1757,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication\\CardApplication.API.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication\\CardApplication.API.csproj",
       "projectName": "CardApplication.API",
-      "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication\\CardApplication.API.csproj",
+      "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication\\CardApplication.API.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -1788,17 +1783,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj"
+            "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj": {
+              "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Core\\CardApplication.Core.csproj"
             },
-            "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj"
+            "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj": {
+              "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Data\\CardApplication.Data.csproj"
             },
-            "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj"
+            "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj": {
+              "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Dto\\CardApplication.Dto.csproj"
             },
-            "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj": {
-              "projectPath": "C:\\Users\\hp\\source\\CardApplication\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj"
+            "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj": {
+              "projectPath": "C:\\Users\\hp\\Downloads\\CardApplication-20210223T041919Z-001\\CardApplication\\CardApplication.Utilies\\CardApplication.Commons.csproj"
             }
           }
         }
