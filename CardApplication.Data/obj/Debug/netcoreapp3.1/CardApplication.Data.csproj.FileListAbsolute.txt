@@ -40,3 +40,17 @@ C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Data\ob
 C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Data\obj\Debug\netcoreapp3.1\CardApplication.Data.csproj.CopyComplete
 C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Data\obj\Debug\netcoreapp3.1\CardApplication.Data.dll
 C:\Users\hp\source\repos\CardApplication\CardApplication\CardApplication.Data\obj\Debug\netcoreapp3.1\CardApplication.Data.pdb
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\bin\Debug\netcoreapp3.1\CardApplication.Data.deps.json
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\bin\Debug\netcoreapp3.1\CardApplication.Data.dll
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\bin\Debug\netcoreapp3.1\CardApplication.Data.pdb
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\bin\Debug\netcoreapp3.1\CardApplication.Dto.dll
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\bin\Debug\netcoreapp3.1\CardApplication.Model.dll
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\bin\Debug\netcoreapp3.1\CardApplication.Model.pdb
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\bin\Debug\netcoreapp3.1\CardApplication.Dto.pdb
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\obj\Debug\netcoreapp3.1\CardApplication.Data.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\obj\Debug\netcoreapp3.1\CardApplication.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\obj\Debug\netcoreapp3.1\CardApplication.Data.AssemblyInfo.cs
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\obj\Debug\netcoreapp3.1\CardApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\obj\Debug\netcoreapp3.1\CardApplication.Data.csproj.CopyComplete
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\obj\Debug\netcoreapp3.1\CardApplication.Data.dll
+C:\Users\hp\Downloads\CardApplication-20210223T041919Z-001\CardApplication\CardApplication.Data\obj\Debug\netcoreapp3.1\CardApplication.Data.pdb
